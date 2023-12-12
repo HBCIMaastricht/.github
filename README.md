@@ -4,15 +4,8 @@ This the HBCI lab of Maastricht University's group page to share projects and co
 
 ## Scripts
 
-### Satori-related scripts
-- [Screencapper](https://github.com/HBCIMaastricht/satori/tree/main/screencapper)
-
 ### Turbo-Satori-related scripts
 - [Send triggers to Turbo-Satori](https://github.com/HBCIMaastricht/SendTriggersToTSI)
-
-### Pygame-related scripts
-- [Sorger et al. (2012) demo](https://github.com/HBCIMaastricht/pygame_demos/blob/main/Sorger_et_al_2012_demo.py)
-- [Pygame window resizing](https://github.com/HBCIMaastricht/pygame_demos/blob/main/resizable_window.py) 
 
 ### Other
 - [Channel-rejection using the MNE library](https://github.com/HBCIMaastricht/fNIRS_channel_rejection)
@@ -27,4 +20,3 @@ This the HBCI lab of Maastricht University's group page to share projects and co
 
 ### Other
 - [fNIRS literature overview 2023](https://github.com/HBCIMaastricht/Documentation/blob/main/fNIRS%20literature%20yearly%20overview_2023.pdf)
-- [How to get Copilot for free](https://github.com/HBCIMaastricht/Documentation/blob/main/How%20to%20get%20Copilot%20for%20free.md)
